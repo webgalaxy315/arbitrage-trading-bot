@@ -20,7 +20,7 @@ Once you are running the web interface, you spot a 352.48$ difference between se
  6. Withdraw balances on both exchanges. The profit before fees is 352.48$.
  7. Repeat.
  
- ![Web interface](https://github.com/amandris/arbitrage-trading-bot/blob/master/src/AppBundle/Resources/public/dist/img/screenshot.png)
+ ![Web interface](https://github.com/zenggang315/arbitrage-trading-bot/blob/master/src/AppBundle/Resources/public/dist/img/screenshot.png)
 
 Supported exchanges
 -------------------
@@ -46,7 +46,7 @@ Prerequisites
 Installation
 ------------
 
- * `git clone https://github.com/amandris/arbitrage-trading-bot.git`
+ * `git clone https://github.com/zenggang315/arbitrage-trading-bot.git`
 
  * `cd arbitrage-trading-bot`
  
